@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krysztal112233&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Krysztal112233/Krysztal112233">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krysztal112233&hide=javascript,html,css,glsl,astro,shell,scala,dockerfile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krysztal112233&hide=javascript,html,css,glsl,astro,shell,dockerfile" />
 </a>
 </div>
   
