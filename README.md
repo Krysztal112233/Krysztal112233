@@ -14,6 +14,9 @@
 - 📫 How to reach me: `krysztal.huang@outlook.com`
 - 😄 Pronouns: he/him
 - 🧭 Language: Chinese（中文）, English. Other languages will use the translator.
+
+Please see my pinned repository for more information :)
+
 ---
 
 <div align="center">
