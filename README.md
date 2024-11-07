@@ -25,4 +25,4 @@ Please see my pinned repository for more information :)
   </a>
 </div>
 
-![GPG](https://img.shields.io/badge/-0xD9694749FA4D22ED-blueviolet?style=for-the-badge&logo=GNU%20Privacy%20Guard)
+![GPG](https://img.shields.io/badge/-0x3f4257a18b0f5158125604a9d9694749fa4d22ed-blueviolet?style=for-the-badge&logo=GNU%20Privacy%20Guard)
