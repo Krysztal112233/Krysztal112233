@@ -15,6 +15,8 @@
 - 😄 Pronouns: he/him
 - 🧭 Language: Chinese（中文）, English. Other languages will use the translator.
 
+### Projects/Resume
+
 - GSoC'2024@Debian
 - [uutils/procps](https://github.com/uutils/procps) maintainer
 
