@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Krysztal112233/Krysztal112233/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
+```
+
+    
