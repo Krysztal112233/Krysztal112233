@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Krysztal112233/Krysztal112233/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
